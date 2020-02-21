@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'Gotham';
+    font-weight: 700;
+    src:
+    url('font/GothamBold.woff') format('woff'),
+    url('font/GothamBold.ttf') format('truetype'),
+    url('font/GothamBold.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Mont';
+    font-weight: 900;
+    src:
+    url('font/MontHeavy.woff') format('woff'),
+    url('font/MontHeavy.ttf') format('truetype'),
+    url('font/MontHeavy.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Mont';
+    font-weight: 700;
+    src:
+    url('font/MontBold.woff') format('woff'),
+    url('font/MontBold.ttf') format('truetype'),
+    url('font/MontBold.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Mont';
+    font-weight: 500;
+    src:
+    url('font/MontSemiBold.woff') format('woff'),
+    url('font/MontSemiBold.ttf') format('truetype'),
+    url('font/MontSemiBold.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Mont';
+    font-weight: 400;
+    src:
+    url('font/MontRegular.woff') format('woff'),
+    url('font/MontRegular.ttf') format('truetype'),
+    url('font/MontRegular.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Nanum Square';
+    font-weight: 900;
+    src:
+    url('font/NanumSquareEB.woff') format('woff'),
+    url('font/NanumSquareEB.ttf') format('truetype'),
+    url('font/NanumSquareEB.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Nanum Square';
+    font-weight: 700;
+    src:
+    url('font/NanumSquareB.woff') format('woff'),
+    url('font/NanumSquareB.ttf') format('truetype'),
+    url('font/NanumSquareB.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Nanum Square';
+    font-weight: 400;
+    src:
+    url('font/NanumSquareR.woff') format('woff'),
+    url('font/NanumSquareR.ttf') format('truetype'),
+    url('font/NanumSquareR.otf') format('opentype');
+}
